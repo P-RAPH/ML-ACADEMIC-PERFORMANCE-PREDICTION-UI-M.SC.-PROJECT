@@ -1,6 +1,15 @@
 # Machine Learning-Based Student Academic Performance Prediction
 ### A Case Study of the University of Ibadan
 
+## By
+```
+1.	Ayantunmbi Raphael Ayantayo	260263	rayantunmbi260263@stu.ui.edu.ng
+2.	Achebo Tule Adewale	261243	tachebo261243@stu.ui.edu.ng
+3.	Komolafe Temiloluwa	259785	tkomolafe259785@stu.ui.edu.ng
+4.	Fakorede Damilola Idris	206432	dfakorede206432@stu.ui.edu.ng
+```
+
+
 This repository contains the code used to produce the AI course project term paper.
 
 ## Structure
